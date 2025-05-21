@@ -1,13 +1,13 @@
 # Info-Retrieval-System
 Information Retrieval System to parse through a collection of documents
 
-Import libraries
+Import libraries:
 tkinter(used for GUI)
 os(used for file operations)
 collections(used to call default dictionary features)
 logging(used to log data)
 
-Functions used
+Functions implemented:
 soundex(created to output soundex of a term)
 termifyDocument(created to tokenize documents)
 query(created to simply give in queries)
