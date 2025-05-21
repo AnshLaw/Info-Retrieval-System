@@ -2,16 +2,16 @@
 Information Retrieval System to parse through a collection of documents
 
 Import libraries:
-    tkinter(used for GUI)
-    os(used for file operations)
-    collections(used to call default dictionary features)
-    logging(used to log data)
+tkinter(used for GUI)
+os(used for file operations)
+collections(used to call default dictionary features)
+logging(used to log data)
 
 Other functions made in use are:
-    soundex(created to output soundex of a term)
-    termifyDocument(created to tokenize documents)
-    query(created to simply give in queries)
-    compileSoundex(created to output soundex dictionary for all terms)
+soundex(created to output soundex of a term)
+termifyDocument(created to tokenize documents)
+query(created to simply give in queries)
+compileSoundex(created to output soundex dictionary for all terms)
 
 The file Gui.py should be ran in the terminal for the program to open. After the window pulls up upload the 'data' folder to the upload all files. 
 
