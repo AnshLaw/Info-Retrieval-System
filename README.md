@@ -2,7 +2,7 @@
 Information Retrieval System to parse through a collection of documents
 
 Import libraries:
-    tkinter(used for GUI)\n
+    tkinter(used for GUI)
     os(used for file operations)
     collections(used to call default dictionary features)
     logging(used to log data)
